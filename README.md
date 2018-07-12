@@ -1,5 +1,5 @@
 ## Requsitos previos
- - [nodejs] (https://nodejs.org/en/)
+ * [nodejs](https://nodejs.org/en/)
  
 ## Ejecucion de comandos 
  - Instalacion de angular
